@@ -1,8 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=header&text=Hi%20I'm%202km!&fontSize=30)
-</br></br>
-<img src="https://github.com/2km1286/2km1286/assets/113483139/e428b019-1a92-4179-a473-7b691f43fb89"  width="800" height="370">
+</br>
+<img src="https://github.com/2km1286/2km1286/assets/113483139/e428b019-1a92-4179-a473-7b691f43fb89"  width="900" height="400">
 
 ### 🛠 Languages and Tools
 
